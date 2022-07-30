@@ -11,18 +11,18 @@ let firstCard = false;
 let secondCard = false;
 
 const items = [
-    {name: "img-1", image:"../project/img-1.png"},
-    {name: "img-2", image:"../project/img-2.png"},
-    {name: "img-3", image:"../project/img-3.png"},
-    {name: "img-4", image:"../project/img-4.png"},
-    {name: "img-5", image:"../project/img-5.png"},
-    {name: "img-6", image:"../project/img-6.png"},
-    {name: "img-7", image:"../project/img-7.png"},
-    {name: "img-8", image:"../project/img-8.png"},
-    {name: "invader", image:"../project/invader.png"},
-    {name: "logo", image:"../project/logo.png"},
-    {name: "spaceship", image:"../project/spaceship.png"},
-    {name: "hammer", image:"../images/hammer.png"},
+    {name: "img-1", image:"img-1.png"},
+    {name: "img-2", image:"img-2.png"},
+    {name: "img-3", image:"img-3.png"},
+    {name: "img-4", image:"img-4.png"},
+    {name: "img-5", image:"img-5.png"},
+    {name: "img-6", image:"img-6.png"},
+    {name: "img-7", image:"img-7.png"},
+    {name: "img-8", image:"img-8.png"},
+    {name: "invader", image:"invader.png"},
+    {name: "logo", image:"logo.png"},
+    {name: "spaceship", image:"spaceship.png"},
+    {name: "hammer", image:"hammer.png"},
 ];
 
 let seconds = 0, 
